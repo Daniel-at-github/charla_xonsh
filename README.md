@@ -4,4 +4,4 @@ Cómo utilizar repetición espaciada con Anki para aprender Xonsh, el lenguaje d
 
 # Presentación
 
-https://daniel-at-github.github.io/charla_xonsh/
+https://daniel-at-github.github.io/charla_xonsh/site/
